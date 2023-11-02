@@ -28,7 +28,6 @@
 <h2>My Updates</h2>
 <h3>Collab Notebook</h3>
 <a href='https://colab.research.google.com/drive/1Ho-LtGwol0XaHmHU0I_RL65Kbu2-J2Wx?usp=sharing'><img src='https://colab.research.google.com/assets/colab-badge.svg'></a>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ho-LtGwol0XaHmHU0I_RL65Kbu2-J2Wx?usp=sharing)
 <hr>
 <br>
 <br>
