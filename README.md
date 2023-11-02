@@ -27,7 +27,7 @@
 <hr>
 <h2>My Updates</h2>
 <h3>Collab Notebook</h3>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinthony/video-retalking/blob/main/quick_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ho-LtGwol0XaHmHU0I_RL65Kbu2-J2Wx?usp=sharing)
 <hr>
 <br>
 <br>
