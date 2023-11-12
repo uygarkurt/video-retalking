@@ -30,6 +30,7 @@
 <a href='https://colab.research.google.com/drive/1Ho-LtGwol0XaHmHU0I_RL65Kbu2-J2Wx?usp=sharing'><img src='https://colab.research.google.com/assets/colab-badge.svg'></a>
 <h3>YouTube Video</h3>
 YouTube video where I show how to use it and what does results look like. **Lip-Sync With AI | Video-Retalking**
+
 [![Thumbnail](./docs/thumbnail.png)](https://www.youtube.com/watch?v=12Lb2oq9owA)
 <hr>
 <br>
